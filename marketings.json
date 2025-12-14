@@ -1,0 +1,26 @@
+[
+  {
+    "id": "MAT_001",
+    "titulo": "Comparativo: Método Tradicional vs Construtivista",
+    "tags": ["pedagógico", "metodologia"],
+    "formato": "Infográfico PDF"
+  },
+  {
+    "id": "MAT_002",
+    "titulo": "Calculadora de Investimento e Descontos",
+    "tags": ["financeiro", "preço", "bolsa"],
+    "formato": "Link Interativo"
+  },
+  {
+    "id": "MAT_003",
+    "titulo": "Vídeo: Um dia na vida dos alunos",
+    "tags": ["rotina", "ambiente", "segurança"],
+    "formato": "Vídeo Youtube"
+  },
+  {
+    "id": "MAT_004",
+    "titulo": "Resultados no Vestibular 2024",
+    "tags": ["performance", "resultado"],
+    "formato": "PDF"
+  }
+]
